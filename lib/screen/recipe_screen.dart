@@ -10,9 +10,9 @@ class RecipeScreen extends StatefulWidget {
 
 class RecipeScreenState extends State <RecipeScreen>{
 
-  final List<String> imgList = <String>['assets/2126711929_ef763de2b3_w.jpg', 'assets/27729023535_a57606c1be.jpg', 'assets/3187380632_5056654a19_b.jpg', 'assets/15992102771_b92f4cc00a_b.jpg', 'assets/8533381643_a31a99e8a6_c.jpg', 'assets/15452035777_294cefced5_c.jpg'];
-  final List<String> labelList = <String>['Spaghetti and Meatballs', 'Tomato Soup', 'Grilled Cheese', 'Chocolate Chip Cookies', 'Taco Salad', 'Hawaiian Pizza'];
-  final List<int> colorCodes = <int>[600, 500, 400, 300, 200, 100];
+  //final List<String> imgList = <String>['assets/2126711929_ef763de2b3_w.jpg', 'assets/27729023535_a57606c1be.jpg', 'assets/3187380632_5056654a19_b.jpg', 'assets/15992102771_b92f4cc00a_b.jpg', 'assets/8533381643_a31a99e8a6_c.jpg', 'assets/15452035777_294cefced5_c.jpg'];
+  //final List<String> labelList = <String>['Spaghetti and Meatballs', 'Tomato Soup', 'Grilled Cheese', 'Chocolate Chip Cookies', 'Taco Salad', 'Hawaiian Pizza'];
+  //final List<int> colorCodes = <int>[600, 500, 400, 300, 200, 100];
 
   @override
   Widget build(BuildContext context) {
